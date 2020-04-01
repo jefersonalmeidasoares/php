@@ -1,4 +1,5 @@
 <?php
-echo "Olá Mundo 456 !";
-echo "Olá Galera"
+echo "Olá Mundo 222 !";
+echo "Olá top";
+echo "Olá Agora vai!";
 ?>
